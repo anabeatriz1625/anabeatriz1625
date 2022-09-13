@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @anabeatriz1625
-- 👀 I’m interested in ...ho
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+# sobre mim
+
+- 👋 olá meu nome e Ana Beatriz
+- :+1: meu email para contato é ana.ferreira.santos25@escola.pr.gov.br
+- 🌱 estou interessada em aprender a programar novas linguagens
+- 💞️ eu estou aprendendo a programar recentemente a linguagem de javaScript e Scratch
 - 📫 How to reach me ...
 
 <!---
