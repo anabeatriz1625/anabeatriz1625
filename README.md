@@ -1,7 +1,7 @@
 # sobre mim
 
-- 👋 olá meu nome e Ana Beatriz
-- :+1: meu email para contato é ana.ferreira.santos25@escola.pr.gov.br
+- 👋 olá meu nome e **Ana Beatriz**
+- :+1: meu email para contato é [email](ana.ferreira.santos25@escola.pr.gov.br)
 - 🌱 estou interessada em aprender a programar novas linguagens
 - :eyes: eu estou aprendendo a programar recentemente a linguagem de javaScript e Scratch
 - :seedling:How to reach me ...
